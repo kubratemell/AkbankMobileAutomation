@@ -1,0 +1,342 @@
+20-04-2021 22:55:13.525 [Gauge] [INFO] Watching directory: C:\Users\user\Desktop\AkbankMobileAutomation\specs
+20-04-2021 22:55:13.526 [Gauge] [DEBUG] Found 1 files
+20-04-2021 22:55:13.528 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+20-04-2021 22:55:13.534 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 22:55:13.534 [Gauge] [INFO] Initializing specs cache with 1 specs
+20-04-2021 22:55:13.534 [Gauge] [DEBUG] Adding specs from C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 22:55:13.534 [Gauge] [INFO] Initializing steps cache with 1 steps
+20-04-2021 22:55:13.534 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58569
+20-04-2021 22:55:14.653 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that <key> is seen"}
+20-04-2021 22:55:14.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <key> is seen"  parameters:"key"}}
+20-04-2021 22:55:14.656 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+20-04-2021 22:55:14.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+20-04-2021 22:55:14.660 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+20-04-2021 22:55:14.660 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+20-04-2021 22:55:14.661 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+20-04-2021 22:55:14.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+20-04-2021 22:55:26.369 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.531 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.542 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.553 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.553 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.555 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.555 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.875 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.930 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.934 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.937 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:26.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:26.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.001 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.051 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.117 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 22:55:27.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 22:55:27.402 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+20-04-2021 22:55:27.408 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}  allSteps:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}  allSteps:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+20-04-2021 22:55:27.409 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+20-04-2021 22:55:27.414 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+20-04-2021 22:55:28.703 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"key\" is seen"}
+20-04-2021 22:55:28.706 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <key> is seen"  parameters:"key"}}
+20-04-2021 22:55:30.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İy\" is seen"}
+20-04-2021 22:55:30.781 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İy> is seen"  parameters:"İy"}}
+20-04-2021 22:55:31.210 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi\" is seen"}
+20-04-2021 22:55:31.210 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi> is seen"  parameters:"İyi"}}
+20-04-2021 22:55:32.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi \" is seen"}
+20-04-2021 22:55:32.099 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi > is seen"  parameters:"İyi "}}
+20-04-2021 22:55:32.549 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi Ak\" is seen"}
+20-04-2021 22:55:32.549 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi Ak> is seen"  parameters:"İyi Ak"}}
+20-04-2021 22:55:33.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi Akşa\" is seen"}
+20-04-2021 22:55:33.018 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi Akşa> is seen"  parameters:"İyi Akşa"}}
+20-04-2021 22:55:33.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi Akşamla\" is seen"}
+20-04-2021 22:55:33.693 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi Akşamla> is seen"  parameters:"İyi Akşamla"}}
+20-04-2021 22:55:34.418 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi Akşam\" is seen"}
+20-04-2021 22:55:34.420 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi Akşam> is seen"  parameters:"İyi Akşam"}}
+20-04-2021 22:55:35.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi ak\" is seen"}
+20-04-2021 22:55:35.865 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi ak> is seen"  parameters:"İyi ak"}}
+20-04-2021 22:55:36.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akş\" is seen"}
+20-04-2021 22:55:36.179 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akş> is seen"  parameters:"İyi akş"}}
+20-04-2021 22:55:36.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşamla\" is seen"}
+20-04-2021 22:55:36.931 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamla> is seen"  parameters:"İyi akşamla"}}
+20-04-2021 22:55:37.280 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi akşamlar\" is seen"}
+20-04-2021 22:55:37.283 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}}
+20-04-2021 22:55:43.820 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 22:55:43.822 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:01:10.369 [Gauge] [INFO] Watching directory: C:\Users\user\Desktop\AkbankMobileAutomation\specs
+20-04-2021 23:01:10.369 [Gauge] [DEBUG] Found 1 files
+20-04-2021 23:01:10.373 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+20-04-2021 23:01:10.373 [Gauge] [INFO] Initializing specs cache with 1 specs
+20-04-2021 23:01:10.373 [Gauge] [DEBUG] Adding specs from C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:01:10.373 [Gauge] [INFO] Initializing steps cache with 1 steps
+20-04-2021 23:01:10.373 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58921
+20-04-2021 23:37:26.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click “En yakın Akbank”"}
+20-04-2021 23:37:26.258 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click “En yakın Akbank”"  parameterizedStepValue:"Then click “En yakın Akbank”"}}
+20-04-2021 23:37:28.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click En yakın Akbank”"}
+20-04-2021 23:37:28.299 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click En yakın Akbank”"  parameterizedStepValue:"Then click En yakın Akbank”"}}
+20-04-2021 23:37:28.909 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click 'En yakın Akbank”"}
+20-04-2021 23:37:28.920 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click 'En yakın Akbank”"  parameterizedStepValue:"Then click 'En yakın Akbank”"}}
+20-04-2021 23:37:31.774 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click 'En yakın Akbank"}
+20-04-2021 23:37:31.785 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click 'En yakın Akbank"  parameterizedStepValue:"Then click 'En yakın Akbank"}}
+20-04-2021 23:37:32.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Then click 'En yakın Akbank'"}
+20-04-2021 23:37:32.450 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}}
+20-04-2021 23:37:51.831 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:37:51.833 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:37:53.027 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.032 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.065 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.069 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.069 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.233 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+20-04-2021 23:37:53.248 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+20-04-2021 23:37:53.915 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+20-04-2021 23:37:53.924 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}}
+20-04-2021 23:37:53.924 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+20-04-2021 23:37:53.925 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+20-04-2021 23:38:00.894 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:38:00.896 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:51:36.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that your location is shown correctly"}
+20-04-2021 23:51:36.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}}
+20-04-2021 23:52:28.073 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+20-04-2021 23:52:28.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}}
+20-04-2021 23:52:28.076 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+20-04-2021 23:52:28.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+20-04-2021 23:52:34.491 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:52:34.496 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:58:50.249 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'ATM' at the bottom of screen"}
+20-04-2021 23:58:50.254 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}}
+20-04-2021 23:59:07.483 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:59:07.486 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:59:08.737 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+20-04-2021 23:59:08.751 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}}
+20-04-2021 23:59:08.754 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+20-04-2021 23:59:08.755 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+20-04-2021 23:59:12.745 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+20-04-2021 23:59:12.767 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:02:18.695 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click menu bar on upper right corner"}
+21-04-2021 00:02:18.707 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}}
+21-04-2021 00:02:42.276 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:02:42.278 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:02:43.518 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+21-04-2021 00:02:43.526 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi akşamlar> is seen"  parameters:"İyi akşamlar"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}  allSteps:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}}
+21-04-2021 00:02:43.527 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+21-04-2021 00:02:43.527 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+21-04-2021 00:02:46.789 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:02:46.808 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:03:24.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gec\" is seen"}
+21-04-2021 00:03:24.039 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gec> is seen"  parameters:"İyi gec"}}
+21-04-2021 00:03:24.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gecele\" is seen"}
+21-04-2021 00:03:24.423 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gecele> is seen"  parameters:"İyi gecele"}}
+21-04-2021 00:03:24.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi geceler\" is seen"}
+21-04-2021 00:03:24.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}}
+21-04-2021 00:03:26.844 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:03:26.857 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:09:33.782 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on the third ATM option"}
+21-04-2021 00:09:33.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on the third ATM option"  parameterizedStepValue:"Click on the third ATM option"}}
+21-04-2021 00:09:45.073 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:09:45.075 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:09:47.962 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+21-04-2021 00:09:47.964 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}  allSteps:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}  allSteps:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}}
+21-04-2021 00:09:47.965 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+21-04-2021 00:09:47.965 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+21-04-2021 00:09:58.120 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:09:58.123 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:16:37.161 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:37.175 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:37.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:37.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:38.382 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:38.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:38.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:38.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.448 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.454 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.455 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.933 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.936 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.958 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:39.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:39.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:41.996 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:42.002 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:42.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:42.004 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:44.136 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:44.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:44.143 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:44.144 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:48.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:48.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:48.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:48.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:50.386 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:50.396 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:50.397 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:50.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:50.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:50.401 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:52.077 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:52.080 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:52.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:16:52.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:16:59.723 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click “Yol Tarifi”"}
+21-04-2021 00:16:59.728 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click “Yol Tarifi”"  parameterizedStepValue:"Click “Yol Tarifi”"}}
+21-04-2021 00:17:02.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click Yol Tarifi”"}
+21-04-2021 00:17:02.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click Yol Tarifi”"  parameterizedStepValue:"Click Yol Tarifi”"}}
+21-04-2021 00:17:03.578 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Yol Tarifi”"}
+21-04-2021 00:17:03.578 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Yol Tarifi”"  parameterizedStepValue:"Click 'Yol Tarifi”"}}
+21-04-2021 00:17:06.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Yol Tarifi"}
+21-04-2021 00:17:06.465 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Yol Tarifi"  parameterizedStepValue:"Click 'Yol Tarifi"}}
+21-04-2021 00:17:06.924 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click 'Yol Tarifi'"}
+21-04-2021 00:17:06.932 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click 'Yol Tarifi'"  parameterizedStepValue:"Click 'Yol Tarifi'"}}
+21-04-2021 00:17:23.163 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:17:23.165 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:17:24.561 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+21-04-2021 00:17:24.573 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}  allSteps:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}  allSteps:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}  allSteps:{stepValue:"Click on the third ATM option"  parameterizedStepValue:"Click on the third ATM option"}}
+21-04-2021 00:17:24.574 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+21-04-2021 00:17:24.574 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+21-04-2021 00:17:34.908 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:17:34.928 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:28:15.769 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:28:15.771 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:28:16.892 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:16.896 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:16.960 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+21-04-2021 00:28:16.964 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Click on the third ATM option"  parameterizedStepValue:"Click on the third ATM option"}  allSteps:{stepValue:"Click 'Yol Tarifi'"  parameterizedStepValue:"Click 'Yol Tarifi'"}  allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}  allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}  allSteps:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}  allSteps:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}}
+21-04-2021 00:28:16.965 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+21-04-2021 00:28:16.965 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+21-04-2021 00:28:24.102 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:28:24.107 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:28:40.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:40.886 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:43.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:43.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:45.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:45.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:46.455 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:46.455 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:46.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:46.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:50.928 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:50.931 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:52.196 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:52.198 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:54.674 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:54.674 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:54.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:54.682 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:54.683 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:54.683 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:54.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:54.685 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:58.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:58.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:58.575 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:58.575 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:58.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:58.576 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:58.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:58.576 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:28:58.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:28:58.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:00.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:00.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:00.716 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:00.718 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:00.719 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:00.721 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:00.722 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:00.723 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:00.724 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:00.733 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.226 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.226 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.227 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.227 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.227 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.227 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:01.229 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+21-04-2021 00:29:01.233 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+21-04-2021 00:29:02.229 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:29:02.252 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:29:11.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check Google Maps is opened for directions'"}
+21-04-2021 00:29:11.298 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check Google Maps is opened for directions'"  parameterizedStepValue:"Check Google Maps is opened for directions'"}}
+21-04-2021 00:29:11.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check Google Maps is opened for directions"}
+21-04-2021 00:29:11.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check Google Maps is opened for directions"  parameterizedStepValue:"Check Google Maps is opened for directions"}}
+21-04-2021 00:29:51.580 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+21-04-2021 00:29:51.582 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Then click 'En yakın Akbank'"  parameterizedStepValue:"Then click 'En yakın Akbank'"}  allSteps:{stepValue:"Check that your location is shown correctly"  parameterizedStepValue:"Check that your location is shown correctly"}  allSteps:{stepValue:"Click 'ATM' at the bottom of screen"  parameterizedStepValue:"Click 'ATM' at the bottom of screen"}  allSteps:{stepValue:"Click menu bar on upper right corner"  parameterizedStepValue:"Click menu bar on upper right corner"}  allSteps:{stepValue:"Click on the third ATM option"  parameterizedStepValue:"Click on the third ATM option"}  allSteps:{stepValue:"Click 'Yol Tarifi'"  parameterizedStepValue:"Click 'Yol Tarifi'"}  allSteps:{}  allSteps:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi geceler> is seen"  parameters:"İyi geceler"}}
+21-04-2021 00:29:51.583 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+21-04-2021 00:29:51.583 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+21-04-2021 00:30:01.598 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:30:01.601 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:37:00.237 [Gauge] [INFO] Spec file removed: C:\Users\user\Desktop\AkbankMobileAutomation\specs\example.spec
+21-04-2021 00:37:00.237 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:37:00.237 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:37:02.862 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:37:02.877 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:38:55.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi gü\" is seen"}
+21-04-2021 00:38:55.893 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi gü> is seen"  parameters:"İyi gü"}}
+21-04-2021 00:38:56.579 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi günl\" is seen"}
+21-04-2021 00:38:56.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi günl> is seen"  parameters:"İyi günl"}}
+21-04-2021 00:38:57.065 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that \"İyi günler\" is seen"}
+21-04-2021 00:38:57.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that {} is seen"  parameterizedStepValue:"Check that <İyi günler> is seen"  parameters:"İyi günler"}}
+21-04-2021 00:38:59.544 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:38:59.569 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:48:52.404 [Gauge] [INFO] Watching directory: C:\Users\user\Desktop\AkbankMobileAutomation\specs
+21-04-2021 00:48:52.405 [Gauge] [DEBUG] Found 1 files
+21-04-2021 00:48:52.408 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-04-2021 00:48:52.409 [Gauge] [INFO] Initializing specs cache with 1 specs
+21-04-2021 00:48:52.409 [Gauge] [DEBUG] Adding specs from C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 00:48:52.409 [Gauge] [INFO] Initializing steps cache with 1 steps
+21-04-2021 00:48:52.409 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65166
+21-04-2021 15:05:48.928 [Gauge] [INFO] Watching directory: C:\Users\user\Desktop\AkbankMobileAutomation\specs
+21-04-2021 15:05:48.932 [Gauge] [DEBUG] Found 1 files
+21-04-2021 15:05:48.939 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-04-2021 15:05:48.949 [Gauge] [INFO] Spec file added / modified: C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 15:05:48.954 [Gauge] [INFO] Initializing specs cache with 1 specs
+21-04-2021 15:05:48.954 [Gauge] [DEBUG] Adding specs from C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 15:05:48.955 [Gauge] [INFO] Initializing steps cache with 1 steps
+21-04-2021 15:05:48.956 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55750
+21-04-2021 15:07:05.475 [Gauge] [INFO] Watching directory: C:\Users\user\Desktop\AkbankMobileAutomation\specs
+21-04-2021 15:07:05.476 [Gauge] [DEBUG] Found 1 files
+21-04-2021 15:07:05.478 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-04-2021 15:07:05.479 [Gauge] [INFO] Initializing specs cache with 1 specs
+21-04-2021 15:07:05.479 [Gauge] [DEBUG] Adding specs from C:\Users\user\Desktop\AkbankMobileAutomation\specs\AtmDirectionsControl.spec
+21-04-2021 15:07:05.479 [Gauge] [INFO] Initializing steps cache with 1 steps
+21-04-2021 15:07:05.479 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55789
